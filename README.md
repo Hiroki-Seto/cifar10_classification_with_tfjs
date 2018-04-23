@@ -1,0 +1,2 @@
+# cifar10_classification_with_tfjs
+tensorflowsjsでcifar10を識別できるappを作る．
